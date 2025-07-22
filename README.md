@@ -5,21 +5,9 @@ Welcome to the **rl-swarm** project! This guide covers how to set up the project
 
 ---
 
-## Table of Contents
-
-- [Prerequisites](#prerequisites)  
-- [Installation](#installation)  
-- [Replacing the Old Swarm Key](#replacing-the-old-swarm-key)  
-- [Running the Node](#running-the-node)  
-- [Using Screen to Run Node in Background](#using-screen-to-run-node-in-background)  
-- [Checking Logs](#checking-logs)  
-- [Troubleshooting](#troubleshooting)
-
----
-
 ## Prerequisites
 
-- Ubuntu 20.04+ or compatible Linux distribution  
+- Ubuntu 24.04 or compatible Linux distribution  
 - Docker & Docker Compose installed ([Official Docker install guide](https://docs.docker.com/engine/install/ubuntu/))  
 - Basic Linux command-line knowledge  
 - Your old `swarm.pem` key file ready to be added
