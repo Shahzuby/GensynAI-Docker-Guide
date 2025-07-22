@@ -19,7 +19,7 @@ Welcome to the **rl-swarm** project! This guide covers how to set up the project
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/rl-swarm.git
+git clone https://github.com/gensyn-ai/rl-swarm
 cd rl-swarm
 ```
 
