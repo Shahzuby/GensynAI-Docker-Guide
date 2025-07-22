@@ -1,7 +1,7 @@
 
-# rl-swarm Setup & Usage Guide
+# rl-swarm docker Setup
 
-Welcome to the **rl-swarm** project! This guide covers how to set up the project, replace your old swarm key, run the node safely with screen or as a background process, and troubleshoot common issues.
+Welcome to the **rl-swarm** project! This guide covers how to set up the projectwith docker and replace your old swarm key, run the node safely with screen or as a background process, and troubleshoot common issues.
 
 ---
 
